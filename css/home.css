@@ -55,6 +55,8 @@ main .lbl-usuario {
     padding: 0 30px;
     font-size: 14px;
 
+    outline: none;
+
 }
 
 #esqueceu-senha {
@@ -76,6 +78,7 @@ main .lbl-usuario {
     background-color: #FFF;
     border: 1px solid white;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .outros-logins {
