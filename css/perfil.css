@@ -60,7 +60,7 @@ header .perfil p {
 main {
     display: flex;
     flex-direction: column;
-    margin: 285px auto 0;
+    margin: 250px auto 0;
     width: 100vw;
 }
 
