@@ -19,6 +19,7 @@ body {
 header {
     background-image: url(../img/teste.svg);
     background-repeat: no-repeat;
+    background-size: cover;
     width: 100vw;
     border-radius: 0 0 20px 20px;
     position: fixed;
@@ -59,7 +60,7 @@ header .perfil p {
 main {
     display: flex;
     flex-direction: column;
-    margin: 320px auto 0;
+    margin: 285px auto 0;
     width: 100vw;
 }
 
