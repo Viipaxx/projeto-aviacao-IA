@@ -21,6 +21,11 @@ body {
     height: 100vh;
 }
 
+header {
+    display: flex;
+    gap: 20px;
+}
+
 header h1 {
     color: #131A26;
     font-family: 'Jost', sans-serif;

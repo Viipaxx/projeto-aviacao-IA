@@ -67,3 +67,7 @@ main {
 main table th {
     background-color: #D9D9D9;
 }
+
+#logo {
+    width: 40px;
+}
