@@ -11,6 +11,7 @@
 
     .container {
         background-image: url(../img/fundo-form-desktop.svg);
+        background-position: bottom;
         width: 600px;
         height: 852px;
         border-radius: 20px;
