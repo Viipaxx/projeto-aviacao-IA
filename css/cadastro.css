@@ -66,3 +66,14 @@ main .form-cadastro label input{
     border: 1px solid white;
     cursor: pointer;
 }
+
+#criar-conta a{
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    
+}
